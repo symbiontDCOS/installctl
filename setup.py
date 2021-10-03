@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'installctl = installctl:cli',
+            'installctl = installctl:yo_',
         ],
     },
 )
